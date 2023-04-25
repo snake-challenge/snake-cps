@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: SNAKE CPS
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - given-names: Louis
+    family-names: Béziaud
+    affiliation: >-
+      Univ Rennes, CNRS, IRISA & Université du Québec à
+      Montréal
+    orcid: 'https://orcid.org/0000-0002-4974-3492'
+identifiers:
+  - type: swh
+    value: 'swh:1:dir:10aabffde6f5a50ecc81c631b3f42beaa2b5aa9d'
+  - type: doi
+    value: 10.5281/zenodo.7861403
+repository-code: 'https://github.com/snake-challenge/snake-cps'
+version: 1.0.0
+date-released: '2023-04-25'
