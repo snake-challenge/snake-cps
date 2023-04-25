@@ -1,6 +1,7 @@
 # SNAKE CPS
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7861403.svg)](https://doi.org/10.5281/zenodo.7861403)
+[![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:10aabffde6f5a50ecc81c631b3f42beaa2b5aa9d/)](https://archive.softwareheritage.org/swh:1:dir:10aabffde6f5a50ecc81c631b3f42beaa2b5aa9d;origin=https://github.com/snake-challenge/snake-cps;visit=swh:1:snp:0b29db053816a71f4071dd6a593efafbfd311967;anchor=swh:1:rev:0b0fd5a4c287a5c25517bfd6af94cd02f47ee869)
 
 ## Usage
 
