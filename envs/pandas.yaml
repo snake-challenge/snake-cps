@@ -1,0 +1,5 @@
+channels:
+  - conda-forge
+dependencies:
+  - pandas==2.0.1
+  - pyarrow==11.0.0
